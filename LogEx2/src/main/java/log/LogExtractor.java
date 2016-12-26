@@ -11,10 +11,11 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author tanliwei
+ * @author tanlw
  * @version $ID: LogExtractor.java, v 0.1 2016-12-06 17:19
  * @reference http://www.cnblogs.com/LiuChunfu/p/5651956.html  Apache下的FileUtils.listFiles方法简单使用技巧
- * @Email: 236328172@qq.com
+ * @ Email: tanlw@fenqi.im
+ * @ Copyright (C), 上海秦苍信息科技有限公司
  */
 public class LogExtractor {
 
