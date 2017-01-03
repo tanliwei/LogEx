@@ -8,8 +8,6 @@ import java.util.Map;
 /**
  * @author tanlw
  * @version $ID: LogCounter.java, v 0.1 2016-12-06 18:52
- * @ Email: tanlw@fenqi.im
- * @ Copyright (C), 上海秦苍信息科技有限公司
  */
 public class LogCounter {
     private static Map<String, LogModel> allLog = new HashMap<>();
