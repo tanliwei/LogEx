@@ -4,8 +4,6 @@ package log;
 /**
  * @author tanlw
  * @version $ID: LogModel.java, v 0.1 2016-12-06 18:46
- * @ Email: tanlw@fenqi.im
- * @ Copyright (C), 上海秦苍信息科技有限公司
  */
 public class LogModel {
     private String filepath;
